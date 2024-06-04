@@ -9,7 +9,7 @@ Real time YOLO Benchmark
 | [YOLOv8s](https://github.com/ultralytics/ultralytics)    | 11.2           | 28.6              | 44.9        | 416x416/640x640 | 22/40                   |
 | [YOLOv10s](https://github.com/THU-MIG/yolov10)           | 7.2            | 21.6              | 46.3        | 416x416/640x640 | 32/71                   |
 | [DAMO-YOLO-S*](https://github.com/tinyvision/DAMO-YOLO)  | 16.3           | 39.8              | **47.7**    | 416x416/640x640 | **12/23**               |
-| [Gold-YOLO-S](https://github.com/EndeavorWang/Gold-YOLO) | 21.5           | 46.0              | 46.4        | 416x416/640x640 | 28/33                   |
+| [Gold-YOLO-S](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO) | 21.5           | 46.0              | 46.4        | 416x416/640x640 | 28/33                   |
 
 > **NOTE**: The Params, FLOPS and mAP are from the repos' README.
 
